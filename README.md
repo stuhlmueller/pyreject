@@ -18,7 +18,7 @@ Model:
       x = flip(.5)
       y = flip(.5)
       observe(x or y)
-      return (x, y)
+      return x, y
 
 Estimating distributions:
 
