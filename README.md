@@ -1,6 +1,6 @@
 # PyReject
 
-A tiny library for writing probabilistic models with rejection query inference in Python.
+A tiny Python library for probabilistic models with inference using rejection sampling.
 
 ## Usage example
 
